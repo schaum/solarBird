@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="299"
    inkscape:export-xdpi="299"
    inkscape:export-filename="/Users/urbs/Documents/UrbsEleDev-DIY/03Elektronik_Projekte/20200907Solarbird/exportLayer/FSilk.png"
@@ -16,8 +8,16 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="solarbird-kicad-x2-min.svg">
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="solarbird-kicad-x2-cut.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <rect
@@ -64,19 +64,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88169136"
-     inkscape:cx="481.49809"
-     inkscape:cy="232.77337"
+     inkscape:zoom="10.667391"
+     inkscape:cx="463.04669"
+     inkscape:cy="212.32934"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="g302"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1248"
-     inkscape:window-height="756"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -133,59 +136,41 @@
        id="g334">
       <text
          transform="matrix(0.41993542,0,0,0.41993542,33.597604,49.468979)"
-         style="font-style:normal;font-weight:normal;font-size:3.89728999999999992px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1301);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:3.89729px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1301);display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="text1299"
          xml:space="preserve"><tspan
            x="37.21875"
-           y="88.612256"><tspan
-             style="font-size:3.89729px;fill:#000000">September 
-</tspan></tspan><tspan
+           y="88.612256"
+           id="tspan13">September 
+</tspan><tspan
            x="37.21875"
-           y="93.483869"><tspan
-             style="font-size:3.89729px;fill:#000000">2020</tspan></tspan></text>
+           y="93.483869"
+           id="tspan14">2020</tspan></text>
       <text
          xml:space="preserve"
          id="text142"
-         style="font-style:normal;font-weight:normal;font-size:4.85046999999999962px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:4.85047px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144);display:inline;fill:#000000;fill-opacity:1;stroke:none"
          transform="matrix(-0.00135384,-0.60576834,0.53126999,-0.00118734,22.228094,133.52588)"><tspan
            x="81.195312"
-           y="54.515075"><tspan
-             style="font-size:4.85047px;fill:#000000">SOLAR  BIRD
-</tspan></tspan></text>
+           y="54.515075"
+           id="tspan15">SOLAR  BIRD
+</tspan></text>
       <g
          id="g277"
          transform="translate(-0.38904306,0.32420255)">
         <path
            style="display:none;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 54.213193,74.837293 c 0.110348,0.419537 0.201134,0.506695 2.275141,2.962928 1.273188,1.50783 5.142121,4.152697 5.142121,4.152697"
+           d="m 54.213193,74.837293 c 0.110348,0.419537 0.201134,0.506695 2.275141,2.962928 1.273188,1.50783 5.394413,4.499599 5.394413,4.499599"
            id="path246"
            sodipodi:nodetypes="csc" />
         <text
-           transform="translate(-1.6273806,1.2419976)"
+           transform="translate(-2.1565473,0.71283093)"
            xml:space="preserve"
            id="text1293"
            style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"><textPath
              style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000"
              id="textPath248"
-             xlink:href="#path246">urbanism</textPath></text>
-        <text
-           style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           id="text265"
-           xml:space="preserve"
-           transform="translate(-3.8645188,3.0630871)"><textPath
-             xlink:href="#path246"
-             id="textPath263"
-             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000">     xyz</textPath></text>
-        <text
-           transform="translate(-2.5656338,1.6641951)"
-           y="2.0229652"
-           x="-3.1364334"
-           xml:space="preserve"
-           id="text269"
-           style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"><textPath
-             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000"
-             id="textPath267"
-             xlink:href="#path246">       .</textPath></text>
+             xlink:href="#path246">taube.xyz</textPath></text>
       </g>
     </g>
     <g
@@ -194,31 +179,31 @@
       <text
          xml:space="preserve"
          id="text282"
-         style="font-style:normal;font-weight:normal;font-size:3.89728999999999992px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect304);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:3.89729px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect304);display:inline;fill:#000000;fill-opacity:1;stroke:none"
          transform="matrix(0.41993542,0,0,0.41993542,33.597604,49.468979)"><tspan
            x="37.21875"
-           y="88.612256"><tspan
-             style="font-size:3.89729px;fill:#000000">September 
-</tspan></tspan><tspan
+           y="88.612256"
+           id="tspan16">September 
+</tspan><tspan
            x="37.21875"
-           y="93.483869"><tspan
-             style="font-size:3.89729px;fill:#000000">2020</tspan></tspan></text>
+           y="93.483869"
+           id="tspan17">2020</tspan></text>
       <text
          transform="matrix(-0.00135384,-0.60576834,0.53126999,-0.00118734,22.228094,133.52588)"
-         style="font-style:normal;font-weight:normal;font-size:4.85046999999999962px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect306);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:4.85047px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect306);display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="text286"
          xml:space="preserve"><tspan
            x="81.195312"
-           y="54.515075"><tspan
-             style="font-size:4.85047px;fill:#000000">SOLAR  BIRD
-</tspan></tspan></text>
+           y="54.515075"
+           id="tspan18">SOLAR  BIRD
+</tspan></text>
       <g
          transform="translate(-0.38904306,0.32420255)"
          id="g302">
         <path
            sodipodi:nodetypes="csc"
            id="path288"
-           d="m 54.213193,74.837293 c 0.110348,0.419537 0.201134,0.506695 2.275141,2.962928 1.273188,1.50783 5.142121,4.152697 5.142121,4.152697"
+           d="m 54.064375,74.614066 c 0.110348,0.419537 0.349952,0.729922 2.423959,3.186155 1.273188,1.50783 5.191727,4.400727 5.191727,4.400727"
            style="display:none;fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <text
            style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -227,25 +212,7 @@
            transform="translate(-1.6273806,1.2419976)"><textPath
              xlink:href="#path246"
              id="textPath290"
-             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000">urbanism</textPath></text>
-        <text
-           transform="translate(-3.8645188,3.0630871)"
-           xml:space="preserve"
-           id="text296"
-           style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"><textPath
-             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000"
-             id="textPath294"
-             xlink:href="#path246">     xyz</textPath></text>
-        <text
-           style="font-style:normal;font-weight:normal;font-size:2.26044px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           id="text300"
-           xml:space="preserve"
-           x="-3.1364334"
-           y="2.0229652"
-           transform="translate(-2.5656338,1.6641951)"><textPath
-             xlink:href="#path246"
-             id="textPath298"
-             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000">       .</textPath></text>
+             style="font-size:2.26044px;shape-inside:url(#rect1295);fill:#000000">taube.xyz</textPath></text>
       </g>
     </g>
   </g>

@@ -2,8 +2,7 @@
 
 Do you want to improve the world with electronics? Then this solar-powered E-Bird is for you. This bird alternative operates completely autonomously and is friendly in any climate. The bird starts chirping on its own as soon as there's a bit of light.
 
-This is how the circuit board design looks like.
-![SolraBird-PCB](2020Inkscape-SaveTheBirdsPCB/solarbird-kicad-x2-minmin-2.svg)
+This is how the circuit board design looks like. ![SolraBird-PCB](2020Inkscape-SaveTheBirdsPCB/solarbird-kicad-x2-minmin-2.png)
 
 Freshly programmed, the bird also twitters. It adjusts its enthusiasm according to light conditions. The program is easily adjustable, which is why we've used this circuit for workshops, for example in schools.
 

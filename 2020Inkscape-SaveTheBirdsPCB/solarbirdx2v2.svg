@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="solarbirdx2v2.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210 297"
@@ -17,7 +9,15 @@
    width="210mm"
    inkscape:export-filename="/Users/urbs/Documents/UrbsEleDev-DIY/03Elektronik_Projekte/20200907Solarbird/solarbirdx2v2.png"
    inkscape:export-xdpi="299"
-   inkscape:export-ydpi="299">
+   inkscape:export-ydpi="299"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <rect
@@ -60,23 +60,26 @@
   <sodipodi:namedview
      inkscape:snap-global="false"
      inkscape:window-maximized="0"
-     inkscape:window-y="22"
+     inkscape:window-y="33"
      inkscape:window-x="0"
-     inkscape:window-height="756"
-     inkscape:window-width="1248"
+     inkscape:window-height="921"
+     inkscape:window-width="1512"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer6"
      inkscape:document-units="mm"
-     inkscape:cy="234.8761"
-     inkscape:cx="345.87757"
+     inkscape:cy="234.62988"
+     inkscape:cx="345.692"
      inkscape:zoom="1.6792405"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -156,34 +159,34 @@
      inkscape:groupmode="layer">
     <text
        transform="matrix(0.58095468,-0.00129839,0.00113871,0.50950797,3.4834295,58.248947)"
-       style="font-style:normal;font-weight:normal;font-size:4.14426999999999968px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1295);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.14427px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1295);fill:#000000;fill-opacity:1;stroke:none"
        id="text1293"
        xml:space="preserve"><tspan
          x="81.195312"
-         y="53.870787"><tspan
-           style="font-size:4.14427px;shape-inside:url(#rect1295)">urbanism.   xyz
-</tspan></tspan></text>
+         y="53.870787"
+         id="tspan9">taube.xyz</tspan></text>
     <text
        transform="matrix(0.41993542,0,0,0.41993542,35.124113,50.363656)"
-       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1301);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1301);fill:#000000;fill-opacity:1;stroke:none"
        id="text1299"
        xml:space="preserve"><tspan
          x="37.21875"
-         y="88.918836"><tspan
-           style="font-size:4.23333px">September 
-</tspan></tspan><tspan
+         y="88.918836"
+         id="tspan10">September 
+</tspan><tspan
          x="37.21875"
-         y="94.2105"><tspan
-           style="font-size:4.23333px">2020</tspan></tspan></text>
+         y="94.2105"
+         id="tspan11">2020</tspan></text>
     <text
        xml:space="preserve"
        id="text130"
-       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect142);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect142);fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.00223978,1.0021742,-0.87892526,0.00196432,172.8383,-34.306201)"><tspan
          x="81.195312"
-         y="53.952039"><tspan>Solar Bird</tspan></tspan></text>
+         y="53.952039"
+         id="tspan12">Solar Bird</tspan></text>
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect52);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect52);fill:#000000;fill-opacity:1;stroke:none"
        id="text50"
        xml:space="preserve" />
     <text
